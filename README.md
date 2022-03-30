@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">Soy estudiante de Ingenieria en Sistemas Computacionales</h3>
+<h3 align="center">I am a Computer Systems Engineering student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
